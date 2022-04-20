@@ -1,4 +1,4 @@
-[![visits](https://views-counter.dimaglushkov.xyz/github.com/dimaglushkov/dimaglushkov/profile%20views.svg)](#)
+[![visits](https://views-counter.dimaglushkov.xyz/github.com/dimaglushkov/dimaglushkov/profile%20views.svg)](https://github.com/dimaglushkov/views-counter)
 ### About
 22 y.o. software engineer, golang developer & rationalist. <br>
 I develop stuff for fun 
