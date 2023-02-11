@@ -1,7 +1,7 @@
 [![visits](https://views-counter.dimaglushkov.xyz/github.com/dimaglushkov/dimaglushkov/profile%20views.svg)](https://github.com/dimaglushkov/views-counter)
 ### About
-software engineer and golang developer <br>
-Passionate about good product, challanging problems, and performant software
+Software engineer and golang developer <br>
+Passionate about good product, challanging problems, and performant software <br>
 I develop stuff for fun
 
 ### Contact me at:
