@@ -1,7 +1,7 @@
 [<img src="https://dimaglushkov.xyz/static/contriseg.gif" width="100%" >](https://github.com/dimaglushkov/contriseg)
 ---
 
-[![visits](https://views-counter.dimaglushkov.xyz/github.com/dimaglushkov/dimaglushkov/profile%20views.svg)](https://github.com/dimaglushkov/views-counter)
+<!-- [![visits](https://views-counter.dimaglushkov.xyz/github.com/dimaglushkov/dimaglushkov/profile%20views.svg)](https://github.com/dimaglushkov/views-counter) -->
 ### About
 Software engineer and golang developer, passionate about good products, challenging problems, and performant software <br>
 I develop stuff for fun
