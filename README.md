@@ -3,8 +3,7 @@
 ---
 <!-- [![visits](https://views-counter.dimaglushkov.xyz/github.com/dimaglushkov/dimaglushkov/profile%20views.svg)](https://github.com/dimaglushkov/views-counter) -->
 ### About
-Software engineer and golang developer, passionate about good products, challenging problems, and performant software <br>
-I develop stuff for fun
+Software engineer and Golang developer, passionate about delivering high-quality products, solving challenging problems, and creating reliable and efficient systems
 
 ### Contacts
 [dimaglushkov.xyz](https://dimaglushkov.xyz) <br>
